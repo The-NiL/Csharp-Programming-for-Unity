@@ -1,2 +1,2 @@
 # Introduction to C# Programming and Unity
-Coursera - Introduction to C# Programming and Unity Projects
+Coursera First course of C# Programming for Unity Game Development Specialization Projects
