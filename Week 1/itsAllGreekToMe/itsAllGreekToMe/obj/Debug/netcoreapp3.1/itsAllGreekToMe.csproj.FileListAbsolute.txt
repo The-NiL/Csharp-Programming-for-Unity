@@ -1,0 +1,12 @@
+/Users/nil/Projects/itsAllGreekToMe/itsAllGreekToMe/bin/Debug/netcoreapp3.1/itsAllGreekToMe.deps.json
+/Users/nil/Projects/itsAllGreekToMe/itsAllGreekToMe/bin/Debug/netcoreapp3.1/itsAllGreekToMe.runtimeconfig.json
+/Users/nil/Projects/itsAllGreekToMe/itsAllGreekToMe/bin/Debug/netcoreapp3.1/itsAllGreekToMe.runtimeconfig.dev.json
+/Users/nil/Projects/itsAllGreekToMe/itsAllGreekToMe/bin/Debug/netcoreapp3.1/itsAllGreekToMe.dll
+/Users/nil/Projects/itsAllGreekToMe/itsAllGreekToMe/bin/Debug/netcoreapp3.1/itsAllGreekToMe.pdb
+/Users/nil/Projects/itsAllGreekToMe/itsAllGreekToMe/obj/Debug/netcoreapp3.1/itsAllGreekToMe.csprojAssemblyReference.cache
+/Users/nil/Projects/itsAllGreekToMe/itsAllGreekToMe/obj/Debug/netcoreapp3.1/itsAllGreekToMe.AssemblyInfoInputs.cache
+/Users/nil/Projects/itsAllGreekToMe/itsAllGreekToMe/obj/Debug/netcoreapp3.1/itsAllGreekToMe.AssemblyInfo.cs
+/Users/nil/Projects/itsAllGreekToMe/itsAllGreekToMe/obj/Debug/netcoreapp3.1/itsAllGreekToMe.csproj.CoreCompileInputs.cache
+/Users/nil/Projects/itsAllGreekToMe/itsAllGreekToMe/obj/Debug/netcoreapp3.1/itsAllGreekToMe.dll
+/Users/nil/Projects/itsAllGreekToMe/itsAllGreekToMe/obj/Debug/netcoreapp3.1/itsAllGreekToMe.pdb
+/Users/nil/Projects/itsAllGreekToMe/itsAllGreekToMe/obj/Debug/netcoreapp3.1/itsAllGreekToMe.genruntimeconfig.cache
